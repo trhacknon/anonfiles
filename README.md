@@ -7,7 +7,7 @@ pkg up -y
 pkg i git -y
 pkg i python -y
 pip3 install lolcat
-git clone https://github.com/AKXVAU/anonfile
+git clone https://github.com/ITZAKX21/anonfile
 cd anonfile
 python anon.py
 ````
